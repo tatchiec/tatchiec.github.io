@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tatchiec.github.io/sitemap.html.gz
+Sitemap: https://tatchiec.github.io/app/sitemap.html.gz
+Sitemap: https://tatchiec.github.io/assets/sitemap.html.gz
+Sitemap: https://tatchiec.github.io/css/sitemap.html.gz
+Sitemap: https://tatchiec.github.io/includes/sitemap.html.gz
+Sitemap: https://tatchiec.github.io/item/sitemap.html.gz
+Sitemap: https://tatchiec.github.io/src/sitemap.html.gz
